@@ -83,7 +83,7 @@
         <br/>
       </div>
     </div>
-      <a href="projets_detailles.php" style="text-align:center;">Veux-tu en savoir plus?</a> 
+      <a href="projets_detailles.php" style="text-align:center;">Voulez-vous en savoir plus?</a> 
       <br/>
       <br/>
   </div>
