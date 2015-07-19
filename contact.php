@@ -14,7 +14,7 @@
         <div class="container-fluid menu">
           <div class="navbar-right menu">
 
-            <button type="button" class="btn btn-default menu" aria-label="Home"><a href="index.php"> <span class="glyphicon glyphicon-home menu"></span><span class="menu">  Accueil</span></a></button> | 
+            <button type="button" class="btn btn-default menu" aria-label="Home"><a href="index_fr.php"> <span class="glyphicon glyphicon-home menu"></span><span class="menu">  Accueil</span></a></button> | 
 
             <button type="button" class="btn btn-default menu" aria-label="About me"><a href="a_propos.php"> <span class="glyphicon glyphicon-user menu"></span><span class="menu">  A propos de moi</span></a></button> | 
 
@@ -28,8 +28,8 @@
 
           <button type="button" class="btn btn-default menu" aria-label="Contact"><a href="contact.php"><span class="glyphicon glyphicon-envelope menu"/></span><span class="menu"> Contact  </span></a></button>  |  
 
-          <a href="index.php"><img src="img/logos/drapeau-francais.png" class="drapeau"/></a>
-          <a href="index_en.php"><img src="img/logos/drapeau_anglais.png" class="drapeau"/></a>
+          <a href="index_fr.php"><img src="img/logos/drapeau-francais.png" class="drapeau"/></a>
+          <a href="index.php"><img src="img/logos/drapeau_anglais.png" class="drapeau"/></a>
         </nav>
     </header>
     <div class="col-md-12">
