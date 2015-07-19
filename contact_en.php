@@ -59,7 +59,11 @@
         <br/>
         <br/>
         <div class="col-md-12">
-          <a href="img/Curriculum Vitae (DAGNIAU).pdf" target="_blank"><img src="img/logos/logo-CV.jpg" class="col-md-6 logo"></img></a>
+        <img onclick="cv()" src="img/logos/logo-CV.jpg" class="col-md-6 logo"></img>
+         <script>function cv() {
+            alert("To obtain my CV, please send me a mail. Thank you.");
+        }
+        </script>
         </div>
         <br/>
         <br/>
