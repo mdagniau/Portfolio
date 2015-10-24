@@ -66,7 +66,7 @@
                 <li class="cs_skeleton bio"><img src="img/slider/maintenant.jpg" class="bio"></li>
                 <li class="num0 img slide bio"> <img src="img/slider/avant.jpg" alt="" title=""></li>
                 <li class="num1 img slide bio"> <img src="img/slider/maintenant.jpg" alt="" title=""></li>
-                <li class="num2 img slide bio"> <img src="img/slider/après.jpg" alt="" title=""></li>
+                <li class="num2 img slide bio"> <img src="img/slider/après(1).jpg" alt="" title=""></li>
               </ul>    
               <div class="cs_arrowprev">
                 <label class="num0" for="cs_slide1_0"><span><i></i><b></b></span></label>
